@@ -37,7 +37,7 @@ class App extends Component {
           } else {
             this.btn.removeAttribute("disabled")
           }
-          } //I think my javascript is probably sus here
+          } 
         }
 
   }
